@@ -1,0 +1,14 @@
+nav{
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    padding: 0px 30px;
+}
+
+.nav-logo{
+    width: 50px;
+}
+
+h2{
+    
+    font-family: 'Poppins';
+    font-size: larger;
+}
