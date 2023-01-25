@@ -12,3 +12,24 @@ h2{
     font-family: 'Poppins';
     font-size: larger;
 }
+.hero{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.landing-img{
+    max-width: 780px;
+    align-self: center;
+    
+}
+.hero--header{
+  font-size: xx-large;
+}
+.hero--text{
+    color: rgb(84, 83, 83);
+    font-size: large;
+}
+.slider-img{
+    max-width: 150px;
+    
+}
